@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+x = input("Type a string: ")
+print(x)
